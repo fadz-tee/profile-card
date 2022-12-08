@@ -1,0 +1,41 @@
+.Profilecard{
+  border-style: solid;
+  border-width: 1px;
+  margin-right:600px;
+  margin-left: 300px;
+  border-radius: 5px;
+  background-color: cadetblue;
+  
+
+  
+  
+  
+} 
+img{width: 100px; 
+    height: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+  
+}
+button{
+  color: cadetblue;
+  border-width: 15px;
+  border-radius: 10px;
+  margin-left: 20px;
+  background-color: black;
+  font-size: 14px;
+
+  
+  
+}
+div.PF{
+  font-family: initial;
+  font-size: 15px;
+  /* margin-left: 150px;
+  margin-top: -150px; */
+  text-align: left;
+  margin-bottom: 120px;
+  margin-top: -170px;
+  margin-left: 150px;
+}
